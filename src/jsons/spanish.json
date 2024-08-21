@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Sobre mí",
+    "gift": "Gift Card",
+    "reviews": "Reviews",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "slide1": {
+      "title": "Descubrí el",
+      "titleItalic": "poder",
+      "title2": "de tu",
+      "titleItalic2": "estilo",
+      "p": "Te invito a redescubrir lo que buscas transmitir, utilizando también tu imagen personal para comunicarte. Anímate a potenciar tu imagen, a brillar y a expandir tu mensaje.",
+      "cta": "Contactame"
+    }
+  },
+  "services": {
+    "title": "¿Qué ofrezco?",
+    "p": "¿Quiénes somos, cómo nos percibimos, cómo nos mostramos al mundo? El redescubrirse es un proceso. ¡No es imposible, sólo debes animarte a realizar el cambio!",
+    "colorimetrySilhouette": {
+      "title": "Colorimetría y Silueta",
+      "description": "Te invito a descubrir tu relación con los colores, aquellos que te hagan vibrar alto, que te potencien de forma natural."
+    },
+    "wardrobeDetox": {
+      "title": "Detox de Guardarropa",
+      "description": "No acumules, armemos un guardarropas funcional a tus necesidades, prioridades, a cómo quieres sentirte y ser percibida."
+    },
+    "outfitCreation": {
+      "title": "Armado de Outfits",
+      "description": "Te armo nuevas propuestas de combinaciones con las prendas que ya tenés, según tus objetivos, actividades laborales y sociales."
+    },
+    "personalShopper": {
+      "title": "Personal Shopper",
+      "description": "Pensado y destinado para aquellas personas que quieran minimizar el margen de error y comprar de manera consciente y efectiva."
+    },
+    "packingAssistance": {
+      "title": "Armado de Valijas",
+      "description": "Tus viajes con outfits planificados, evitá el exceso de equipaje y asegurá siempre tener la ropa adecuada para cada ocasión."
+    },
+    "styling": {
+      "title": "Estilismo",
+      "description": "Como estilista utilizo diversos recursos para hacer realidad las visiones de mis clientes en desfiles de moda, editoriales, shootings de lanzamientos de temporadas, entre otros."
+    },
+    "bigCard": {
+      "title": "Asesoría completa",
+      "p": "Si lo que buscas es un cambio de imagen, porque ya tus necesidades, objetivos y prioridades no son las mismas y no sabes por dónde empezar, entonces te invito a hacer el asesoramiento completo. El redescubrirse es un proceso. Hacerlo con un acompañamiento profesional te garantizará los resultados que anhelas. No es imposible, sólo debes animarte a realizar el cambio!. De esta manera, contratando este servicio integral obtienes un 15% de descuento! ",
+      "includes": "Incluye",
+      "list": {
+        "color": "Colorimetría y Silueta",
+        "detox": "Detox de Guardarropas",
+        "personal": "Personal Shopper ",
+        "build": "Armado de Outfits"
+      },
+      "cta": "Contactame"
+    }
+  },
+  "about": {
+    "titleAbout": "Sobre mí",
+    "content": "Soy Anne Carroll, también conocida como Pachu, Asesora de Imagen y Estilista de Moda. Una mujer a quien le apasiona descubrir a las personas a través de lo que comunican con su imagen.\nMe formé en el FIT de Nueva York (Fashion Institute of Technology), una de las universidades más reconocidas en el mundo de la moda, que me dio la oportunidad de trabajar para el Fashion Week de Nueva York. Esto me permitió dedicarme a lo que tanto me apasiona compartiendo mis conocimientos con clientas, marcas de moda y diferentes empresas que confían en mí día a día.\nAmbas certificaciones me permitieron encontrar un equilibrio entre un trabajo más pautado, en mi rol de asesora de imagen y la libertad infinita de crear y jugar con las prendas y colores, como estilista.\nAsí como aprendí a descubrirme, potenciarme, y usar el poder de la comunicación no verbal a mi favor en cada etapa, estoy convencida que este es el camino que todas deberíamos darnos la posibilidad de recorrer."
+  },
+  "reviews": [
+    {
+      "author": "Silvana",
+      "service": "Detox y Armado de Valija",
+      "quote": "Excelente! Aprendí a hacer combinaciones que no imaginaba, a usar cosas que quedaban meses sin tocar. Siento que es un ejercicio que hay que hacer al menos dos veces por año porque sino en el día a día me estanco. Además aprendí algunas cosas sobre la ropa que me favorece y que no que tampoco sabía. Y todo con mucho amor, partiendo de la base de que Ani deja que cada uno decida qué usar y cómo, te recomienda desde el conocimiento y te orienta."
+    },
+    {
+      "author": "Vero",
+      "service": "Colorimetría y Silueta",
+      "quote": "Esta prestación incluyó 2 encuentros: uno presencial y otro virtual. Otra experiencia increíble que me dio mucha información respecto de mí y de la paleta de colores que mejor se adapta a mi persona, teniendo en cuenta todos los factores que me caracterizan, entre otras cosas. Fue altamente revelador, distinguiendo detalles sobre mi imagen en los que no había reparado antes, y obteniendo tips muy prácticos y de fácil aplicación. Los invito a que tomen este servicio, que sin duda no se van a arrepentir de hacerlo."
+    },
+    {
+      "author": "Carla",
+      "service": "Personal Shopper",
+      "quote": "Si hay algo que admiro de Pachu es su ojo especial para descubrir prendas únicas en cualquier local. No sé cómo, pero ella descubre 'esa' blusa, blazer o pantalón que vos ni hubieras detectado. No te quepa duda, cuando ella te dice: 'jugate con esta prenda, es para levantar tu outfit', NO LO DUDES. Ya sea por el color, el corte, el estilo... esa prenda se va a destacar y te va a resaltar a vos cada vez que la uses. A mí, eso, me fascina y es algo que soy completamente incapaz de hacer sola."
+    },
+    {
+      "author": "Amira",
+      "service": "Detox, colorimetría, personal shopper y armado de outfits",
+      "quote": "Antes de conocer a Analía, todo mi guardarropas era de color negro. Tomé el servicio de Colorimetría y conocí una amplia variedad de colores que hoy son mis aliados. En estos encuentros aprendí la importancia de saber elegir, de entender quien fui y quien quiero ser para darle lugar a lo nuevo. Hicimos un detox de mi guardarropas y fue mi personal shopper con un trabajo previo de investigación y creatividad."
+    },
+    {
+      "author": "Lali",
+      "service": "Detox de guardarropas, armado de outfits, personal shopper y armado de valijas",
+      "quote": "Mi experiencia con Pachu superó mis expectativas. La contrate con más fe que certezas. No entendía bien en qué me iba a poder ayudar pero lo hice igual. Arranco con un zoom conociéndome que yo pensé que iba a durar 15 minutos y estuvimos delimitando objetivos del trabajo por 1 hora. Cuando vino a casa No solo me ayudó a desechar el 70% de mi placard que estaba en malas condiciones sino también desechar lo que no cumplía con lo que yo misma había declarado que quería lograr."
+    },
+    {
+      "author": "Elena",
+      "service": "Taller de Imagen y Estilo",
+      "quote": "Realicé este taller junto a mi hija, quien me contó en su momento que se haría y me resultó interesante. El mundo de la moda y de la imagen siempre me atrajo. Dudé al principio, dado que pensé que con mis 82 años no podría aplicar lo que fuera a aprender. Agradezco el haberlo hecho. Muy por el contrario a lo que me vino inicialmente a mi cabeza, me brindó nuevas herramientas, además de corroborar mi estilo clásico."
+    }
+  ],
+  "gift": {
+    "contentCard": "Hacer regalos no es una tarea fácil. Con cualquiera de los servicios que ofrezco, garantizas no solo una experiencia agradable, sino también un regalo especialmente pensado, personalizado y original. ¡Regala de manera diferente y esa persona siempre te lo agradecerá!",
+    "button": "Comprar"
+  },
+  "workshops": {
+    "intro": "Próximamente disponible para que lo hagan a su ritmo, cuando quieran en el momento que puedan!",
+    "talleres": [
+      {
+        "title": "Taller de Imagen y Estilo",
+        "description": "Conocerás los 7 Estilos Universales",
+        "description2": "Aprenderás cómo ensamblarlos para potenciarte",
+        "description3": "Psicología del color: ¿Transmitís el mensaje que buscás con el color que estás usando?",
+        "description4": "Inspiración para que, de ahora en adelante, vayan desapareciendo las dudas a la hora de incorporar prendas nuevas a tu placard"
+      },
+      {
+        "title": "Taller de Color, Combinaciones y Cápsulas",
+        "description": "Hay un universo más allá del blanco y negro",
+        "description2": "Aprenderás a combinar colores de forma creativa y estratégica",
+        "description3": "Conocerás sobre el armado de cápsulas! Una herramienta fundamental para no malgastar el dinero a la hora de incorporar prendas nuevas",
+        "description4": "Te brindo nuevos TIPS que te ayudarán en tu día a día"
+      }
+    ]
+  }
+}

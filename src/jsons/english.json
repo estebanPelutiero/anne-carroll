@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "gift": "Gift Card",
+    "reviews": "Reviews",
+    "contact": "Contact"
+  },
+  "hero": {
+    "slide1": {
+      "title": "It's time to discover the",
+      "titleItalic": "power",
+      "title2": "of your",
+      "titleItalic2": "style",
+      "p": "I'm excited to help you rediscover what you want to convey using your personal image to communicate. Let's work together to enhance your image, shine, and expand your message!",
+      "cta": "Contact me"
+    }
+  },
+  "services": {
+    "title": "What I can do for you?",
+    "p": "Let's think about who we are, how we see ourselves, and how we show up in the world. Rediscovering ourselves is a process. I'd love for you to join me on this journey of self-discovery",
+    "colorimetrySilhouette": {
+      "title": "Colourimetry and Silhouette",
+      "description": "I invite you to discover your relationship with colors, those that make you vibrate high, that naturally enhance you."
+    },
+    "wardrobeDetox": {
+      "title": "Wardrobe Detox",
+      "description": "Let's put together a functional closet that works for you, according to your needs, priorities, and how you want to feel and be perceived."
+    },
+    "outfitCreation": {
+      "title": "Outfits",
+      "description": "I create new outfit combinations with the clothes you already have, tailored to your goals, work activities, and social events."
+    },
+    "personalShopper": {
+      "title": "Personal Shopper",
+      "description": "Designed for those who want to minimize mistakes and shop consciously and effectively."
+    },
+    "packingAssistance": {
+      "title": "Smart Packing ",
+      "description": "Your travels with meticulously planned outfits, avoiding excess luggage and ensuring you always have the right clothes for every occasion."
+    },
+    "styling": {
+      "title": "Styling",
+      "description": "As a stylist I use different resources and my knowledge to realize the visions of my clients in fashion shows, editorials, shootings of season launches, among others."
+    },
+    "bigCard": {
+      "title": "Full Package",
+      "p": "If you're looking for a change of image because your needs, goals and priorities have changed and you're not sure where to start, then I'd love to help you with the complete assessment.Rediscovering yourself is a process, and I'm here to support you every step of the way! I can help you achieve the results you've been dreaming of with my professional guidance. It's not impossible, you just have to be brave and make the change!. And the best part is, hiring this integral service gets you a 15% discount!  ",
+      "includes": "Includes",
+      "list": {
+        "color": "Colourimetry and Silhouette",
+        "detox": "Closet Detox",
+        "personal": "Outfits",
+        "build": "Personal Shopper"
+      },
+      "cta": "Contact me"
+    }
+  },
+  "about": {
+    "titleAbout": "About me",
+    "content": "I'm Anne Carroll, also known as Pachu! I'm an image consultant and fashion stylist, and I love helping people express themselves through their style. I trained at FIT in New York (Fashion Institute of Technology), one of the most well-known fashion schools in the world, which gave me the great opportunity to work at New York Fashion Week! This was the perfect opportunity for me to dedicate myself to what I am so passionate about: sharing my knowledge with clients, fashion brands and different companies that trust me every day. Both certifications allowed me to find a balance between a more scheduled work, in my role as image consultant, and the infinite freedom to create and play with clothes and colors, as a stylist. Each stage in our lives, each completed cycle, are always accompanied by a change in our image. As we go through life, our needs and desires change, and so does our image. It's natural! We're constantly evolving, and our image should reflect that. I've learned so much about myself and how to communicate non-verbally. I'm so grateful for all the opportunities I've had to grow and evolve. I truly believe that everyone should have the chance to do the same."
+  },
+  "reviews": [
+    {
+      "author": "Silvana",
+      "service": "Detox and suitcase packing",
+      "quote": "Excellent! I learned to make combinations that I never imagined, to use things that had been untouched for months. I feel like this is an exercise that needs to be done at least twice a year because otherwise, I stagnate in my daily life. Additionally, I learned some things about the clothes that suit me and what doesn't, which I didn't know before. And all with a lot of love, starting from the base that Ani lets everyone decide what to wear and how, she advises from knowledge and guides you."
+    },
+    {
+      "author": "Vero",
+      "service": "Colourimetry and Silhouette",
+      "quote": "This service included 2 meetings: one in person and one virtual. Another incredible experience, which gave me a lot of information about myself, the color palette that best suits me, taking into account all the factors that characterize me, among other things. It was highly revealing, distinguishing details about my image that I had not noticed before, and getting very practical and easy to apply tips. I invite you to take this service, you will certainly not regret it."
+    },
+    {
+      "author": "Carla",
+      "service": "Personal Shopper",
+      "quote": "If there is something I admire about Pachu is her special eye for discovering unique garments in any store. I don't know how, but she discovers “that” blouse, blazer or pants that you wouldn't have detected. Make no doubt about it, when she tells you: 'play with this garment, it will lift your outfit', DON'T DOUBT IT. Whether it's the color, the cut, the style... that garment is going to stand out and it's going to stand out to you every time you wear it. This fascinates me and is something I am completely incapable of doing on my own."
+    },
+    {
+      "author": "Amira",
+      "service": "Detox, color analysis, personal shopper, and outfit creation",
+      "quote": "Before meeting Analía, my entire wardrobe was black. I took the Color Analysis service and discovered a wide variety of colors that are now my allies. In these sessions, I learned the importance of making choices, understanding who I was and who I want to be to make room for the new. We did a wardrobe detox, and she was my personal shopper with prior research and creativity."
+    },
+    {
+      "author": "Lali",
+      "service": "Wardrobe detox, outfit creation, personal shopper, and suitcase packing",
+      "quote": "My experience with Pachu exceeded my expectations. I hired her more on faith than certainty. I didn't quite understand how she could help me, but I went ahead anyway. It started with a Zoom call where she got to know me, which I thought would last 15 minutes, but we spent an hour defining the goals of the work. When she came to my house, she not only helped me discard 70% of my closet that was in bad condition but also eliminated items that didn't align with what I had declared I wanted to achieve."
+    },
+    {
+      "author": "Elena",
+      "service": "Image and Style Workshop",
+      "quote": "I attended this workshop with my daughter, who told me about it and I found it interesting. The world of fashion and image has always attracted me. I hesitated at first, thinking that at 82 years old I wouldn't be able to apply what I learned. I'm grateful I did it. Contrary to my initial thoughts, it provided me with new tools while confirming my classic style."
+    }
+  ],
+  "gift": {
+    "contentCard": "We all know that giving gifts can be tricky. With any of the services I offer, you can be sure that you'll get a great experience and a gift that's been specially designed, personalised and original. Give in a different way and that person will always thank you!",
+    "button": "Buy"
+  },
+  "workshops": {
+    "intro": "Workshops are not yet available but we are working to offer you a unique experience. Very soon you will be able to enjoy our workshops!",
+    "talleres": [
+      {
+        "title": "Image and Style Workshop",
+        "description": "Discover the 7 Universal Styles",
+        "description2": "Learn how to assemble them to enhance yourself",
+        "description3": "Color psychology: Are you conveying the message you intend with the colors you are using?",
+        "description4": "Inspiration to eliminate doubts when incorporating new garments into your wardrobe"
+      },
+      {
+        "title": "Color, Combinations, and Capsules Workshop",
+        "description": "There is a universe beyond black and white",
+        "description2": "Learn to combine colors creatively and strategically",
+        "description3": "Learn about capsule wardrobes! A fundamental tool to avoid wasting money when adding new garments",
+        "description4": "I provide you with new TIPS that will help you in your day-to-day"
+      }
+    ]
+  }
+}
